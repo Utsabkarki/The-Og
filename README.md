@@ -34,7 +34,7 @@
 
   <div class="card">
     <h2>Contact</h2>
-    <p>Email: xerokarkiemail.com</p>
+    <p>Email: CALLMEDADDY</p>
   </div>
 </section>
 
